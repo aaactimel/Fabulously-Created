@@ -41,3 +41,6 @@ Very lightweight modpack based on outdated Fabulously Optimized with updated mod
   + ✨ As an alternative, you could try [Just Zoom](https://modrinth.com/mod/just-zoom) or [Ok Zoomer](https://modrinth.com/mod/ok-zoomer)
 + 🔴 Deleted [Controlify](https://modrinth.com/mod/controlify) due to unstable FPS without using controller and some random crashes
   + ✨ If you need controller support, you could try [MidnightControls (1.9.4)](https://modrinth.com/mod/midnightcontrols/version/1.9.4+1.20)
+
+## Download
+### **You can download modpack here**: [Modrinth](https://modrinth.com/modpack/fabulouslycreated)
