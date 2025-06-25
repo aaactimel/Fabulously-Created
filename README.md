@@ -14,13 +14,13 @@ Very lightweight modpack based on outdated Fabulously Optimized with updated mod
 **A:** **Yes!** Just install shaders you want ([Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined) + Euphoria patches highly recommended) and play without much FPS drop!  
 
 **Q:** **Is there any ingame tutorial, like guide books?**  
-**A:** **Yes**, while host and client have same mods with same major versions, there should not be any problems with optimization nor bugs.
+**A:** **No**, there is no any gifted on start guide books to make real vanilla feel. However, Create has their own tutorial on any modded block (by default you need to hold W when your cursor is on the item in inventory), so you can learn Create with them!
 
 **Q:** **Is there any changes about optimization compared to Fabulously Optimized?**  
 **A:** **No major changes**, but Faster Random, Fast Boot and Fast Paintings was added just to +1-2FPS in heavy scenes.
 
 **Q:** **Is it multiplayer friendly?**  
-**A:** **No**, there is no any gifted on start guide books to make real vanilla feel. However, Create has their own tutorial on any modded block (by default you need to hold W when your cursor is on the item in inventory), so you can learn Create with them!
+**A:** **Yes**, while host and client have same mods with same major versions, there should not be any problems with optimization nor bugs.
 
 **Q:** **Does it compatible with Steam Deck, Lenovo Legion, ASUS ROG ALLY, MSI Claw?**  
 **A:** Practically **yes**, but you need to install [**MidnightControls (1.9.4)**](https://modrinth.com/mod/midnightcontrols/version/1.9.4+1.20) (not included to modpack because of possible bloating). FPS will be stable; however, lock to 60FPS@1080p recommended (30FPS@720p/1080p for battery saving)  
